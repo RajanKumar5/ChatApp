@@ -1,1 +1,2 @@
 # ChatApp
+ChatApp is a JSP based highly responsive and secure web application. It is basically a messaging system through which user can send one-to-one dedicated messages to one another. It provides a good user interface and which makes it easy to use. It uses Java Main API to send OTP to the registered Email-ID. Using ChatApp users can search for their friends, add them to their fiend-list and chat with them.
