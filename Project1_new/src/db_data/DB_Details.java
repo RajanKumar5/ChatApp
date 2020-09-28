@@ -28,12 +28,10 @@ public class DB_Details{
 	}
 	
 	public static String getUsername(){
-		/*return "admin_ChatApp";*/
 		return "root";
 	}
 	
 	public static String getPassword(){
-		/*return "a-2zsecurepassword123456*";*/
 		return "root";
 	}
 	
