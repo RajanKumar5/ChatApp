@@ -542,8 +542,8 @@ public class DB_Details{
 		properties.put("mail.smtp.host", "smtp.gmail.com");
 		properties.put("mail.smtp.port", "587");
 		
-		String myAccountEmail = "service.chatapp.mail@gmail.com";
-		String password = "Sunny123456*";
+		String myAccountEmail = "your-mail-id";
+		String password = "your-password";
 		
 		Session session = Session.getInstance(properties, new Authenticator() {
 			@Override
